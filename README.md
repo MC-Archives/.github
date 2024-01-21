@@ -1,6 +1,6 @@
 # MC archives
 
-# Timeline
+## Timeline
 
 https://docs.google.com/viewer?url=https://raw.githubusercontent.com/MC-Boiz/Timeline/main/mc-timeline.xlsx
 
