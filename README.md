@@ -1,4 +1,4 @@
-# MC archives
+# MC Archives
 
 ## Timeline
 
