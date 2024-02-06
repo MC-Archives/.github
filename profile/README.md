@@ -2,7 +2,7 @@
 
 ## Timeline
 
-https://docs.google.com/viewer?url=https://raw.githubusercontent.com/MC-Boiz/Timeline/main/mc-timeline.xlsx
+https://docs.google.com/viewer?url=https://raw.githubusercontent.com/MC-Archives/Timeline/main/mc-timeline.xlsx
 
 ## Maps
 
