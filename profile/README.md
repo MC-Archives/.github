@@ -8,19 +8,19 @@ https://docs.google.com/viewer?url=https://raw.githubusercontent.com/MC-Archives
 
 ### Big map
 
-https://mc-archives.topgun09.rip/maps/
+https://mc-archives.sopaws.com/maps/
 
 ### Overview maps
 
-https://mc-archives.topgun09.rip/Map_NewWorld/
+https://mc-archives.sopaws.com/Map_NewWorld/
 
-https://mc-archives.topgun09.rip/Map_PlainWorld/
+https://mc-archives.sopaws.com/Map_PlainWorld/
 
-https://mc-archives.topgun09.rip/Map_TLWS/
+https://mc-archives.sopaws.com/Map_TLWS/
 
-https://mc-archives.topgun09.rip/Map_ThiccCraft4.0/
+https://mc-archives.sopaws.com/Map_ThiccCraft4.0/
 
-https://mc-archives.topgun09.rip/Map_Zebracraft/
+https://mc-archives.sopaws.com/Map_Zebracraft/
 
 #### on github
 
@@ -46,4 +46,4 @@ https://raw.githubusercontent.com/MC-Archives/getPlayers/master/json/bigList.jso
 
 ## World downloads
 
-https://mc-archives.topgun09.rip/worlds/
+https://mc-archives.sopaws.com/worlds/
